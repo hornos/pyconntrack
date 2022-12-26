@@ -1,0 +1,8 @@
+.cache
+.venv
+github
+__pycache__
+events.py
+expect.py
+*.pyc
+LOCAL.md
